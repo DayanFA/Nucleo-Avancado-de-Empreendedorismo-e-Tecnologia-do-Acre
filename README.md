@@ -1,1 +1,1 @@
-# Nucleo-avancado-de-empreendedorismo-e-tecnologia-do-Acre
+# NAVE TECH | Núcleo Avançado de Empreendedorismo e Tecnologia do Acre
