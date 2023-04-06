@@ -10,4 +10,4 @@ Dentre os aprendizados que obtive duranta a execução da atividade
 
 Dentre as dúvidas que sugiram durante a execução da atividade
 
-• Creio que não entendi muito bem certas partes, tenho noção que errei algumas, mas confesso que na época não havia entendido 100% oque as questões estavam pedindo.
+• Creio que não entendi muito bem certas partes, tenho noção que errei algumas, mas confesso que na época não havia entendido 100% o que as questões estavam pedindo.
