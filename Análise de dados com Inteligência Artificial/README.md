@@ -10,7 +10,7 @@ algoritmos de aprendizado de máquina.
 
 * Exercício
 
-A pasta contem três arquivos:
+A pasta "Hands On" contem três arquivos:
 • Hands-on-alunos.ipynb (o notebook)
 • auto_cleaned.csv (arquivo treinamento)
 • test.csv (arquivo teste)
