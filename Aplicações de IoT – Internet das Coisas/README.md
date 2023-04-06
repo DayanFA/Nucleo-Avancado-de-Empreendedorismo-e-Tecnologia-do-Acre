@@ -1,0 +1,2 @@
+Aprendizagem de conceitos fundamentais relacionados à Internet das Coisas; Cenários e aplicações: área industrial, planejamento urbano, cidades inteligentes, sistemas de transporte, sistemas logísticos, monitoramento interno e ambiental, agronegócio etc.; Exploração e consolidação dos conceitos pela experimentação de casos de usos; Desenvolvimento de sistemas baseados em Internet das Coisas para resolução de problemas reais. Integração de dispositivos através da nuvem; Criação de aplicações em Python para IoT.
+
