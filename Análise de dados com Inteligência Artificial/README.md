@@ -1,4 +1,4 @@
-# Curso de Análise de dados com Inteligência Artificial
+# Curso Análise de dados com Inteligência Artificial
 
 Introdução a Análise de Dados; Produção de Dados; Armazenamento Analítico; Análise de Dados;
 Problemas e Soluções em Análise de Dados; Análise de Dados Categóricos; Exemplos de Dados:
