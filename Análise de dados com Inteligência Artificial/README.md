@@ -1,3 +1,5 @@
+# Curso de Análise de dados com Inteligência Artificial
+
 Introdução a Análise de Dados; Produção de Dados; Armazenamento Analítico; Análise de Dados;
 Problemas e Soluções em Análise de Dados; Análise de Dados Categóricos; Exemplos de Dados:
 Métricas de Desempenho; Indicadores; Sistemas de Medição. Módulos Python para Análise de Dados.
