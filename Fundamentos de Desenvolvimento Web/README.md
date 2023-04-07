@@ -7,7 +7,7 @@ melhoria do desempenho de web sites; Compreender o funcionamento básico de um s
 
 # Exercício de avaliação
 
-* Exercícios - Uma série de exercícios para montar circuitos no Arduino. Usando LED, botões, servo motor e etc. 
+* Exercícios - Uma série de exercícios para construir um web site.
 
 # Plano de ensino
 
