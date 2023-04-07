@@ -1,11 +1,9 @@
 # Curso Fundamentos de Desenvolvimento Web
 
-Aprendizagem de conceitos fundamentais relacionados à Internet das Coisas; Cenários e aplicações:
-área industrial, planejamento urbano, cidades inteligentes, sistemas de transporte, sistemas logísticos,
-monitoramento interno e ambiental, agronegócio etc.; Exploração e consolidação dos conceitos pela
-experimentação de casos de usos; Desenvolvimento de sistemas baseados em Internet das Coisas para
-resolução de problemas reais. Integração de dispositivos através da nuvem; Criação de aplicações em
-Python para IoT. 
+Conhecer Linguagens de Programação para desenvolvimento de aplicações web; Construir web sites
+dinâmicos baseados em novas tecnologias e com acesso a banco de dados; Compreender os métodos
+e técnicas de desenvolvimento de aplicações avançadas para web; Identificar soluções na otimização e
+melhoria do desempenho de web sites; Compreender o funcionamento básico de um servidor web.
 
 # Exercício de avaliação
 
@@ -13,8 +11,8 @@ Python para IoT.
 
 # Plano de ensino
 
-![PlanoEnsino-Aplicações_de_IoT](https://user-images.githubusercontent.com/123272343/230484223-8c81615f-81e5-491f-94c3-cd85f7125df9.png)
+![PlanoEnsino - Fundamentos Desenvolvimento Web - 2023](https://user-images.githubusercontent.com/123272343/230559757-f99baf0d-3524-4a9a-a968-0d79cbef98bc.png)
 
-![PlanoEnsino-Aplicações_de_IoT-2](https://user-images.githubusercontent.com/123272343/230484241-1e21af22-022c-4012-a311-41a9cc76cf5c.png)
+![PlanoEnsino - Fundamentos Desenvolvimento Web - 2023-2](https://user-images.githubusercontent.com/123272343/230559768-020f5413-ae06-478b-bf2e-e00b6d44bba8.png)
 
-PDF: [PlanoEnsino-Aplicações_de_IoT.pdf](https://github.com/DayanFA/Nucleo-avancado-de-empreendedorismo-e-tecnologia-do-Acre/files/11174121/PlanoEnsino-Aplicacoes_de_IoT.pdf)
+PDF: [PlanoEnsino - Fundamentos Desenvolvimento Web - 2023.pdf](https://github.com/DayanFA/Nucleo-Avancado-de-Empreendedorismo-e-Tecnologia-do-Acre/files/11176798/PlanoEnsino.-.Fundamentos.Desenvolvimento.Web.-.2023.pdf)
