@@ -1,2 +1,0 @@
-Conceitos, definições e história de Internet das Coisas e M2M. Objetos inteligentes. Plataformas de IoT e tecnologias envolvidas. Discutir as evoluções de IoT no Brasil e no mundo. Aplicabilidade de internet das coisas nos negócios e seu impacto na sociedade. Desafios éticos, segurança e privacidade. Desafios de implementação de IoT no Brasil na visão do BNDES / MCTIC. Principais tendências, tecnologias e estratégias para IoT. IoT para apoiar o desenvolvimento regional.
-
