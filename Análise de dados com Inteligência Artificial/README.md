@@ -17,34 +17,36 @@ A pasta "Hands On" contem três arquivos:<br>
 
 ↪ Questão 1:
 
-Crie um modelo de regressão linear múltipla <b>lm1</b> treinado sobre as seguintes features do conjunto auto_cleaned:
+Crie um modelo de regressão linear múltipla <b>lm1</b> treinado sobre as seguintes features do conjunto auto_cleaned:<br>
 
-• Horsepower
-• Curb-weight
-• Engine-size
-• Highway-mpg
-• City-mpg
-• Bore
-• Width
-• Length
+• Horsepower<br>
+• Curb-weight<br>
+• Engine-size<br>
+• Highway-mpg<br>
+• City-mpg<br>
+• Bore<br>
+• Width<br>
+• Length<br>
 • Wheel-base
 
 Avalie a qualidade do ajuste (treinamento) usando R-squared e a qualidade das previsões do ajuste usando MSE.
 
 ↪ Questão 2:
 
-Crie um novo modelo de regressão linear múltipla <b>lm2</b> treinado sobre as seguintes features:
-• horsepower
-• highway-mpg
-• city-mpg
+Crie um novo modelo de regressão linear múltipla <b>lm2</b> treinado sobre as seguintes features:<br>
+
+• horsepower<br>
+• highway-mpg<br>
+• city-mpg<br>
 
 Avalie a qualidade do ajuste (treinamento) usando R-squared e a qualidade das previsões do ajuste usando MSE.
 
 ↪ Questão 3:
 
-Crie um novo modelo de regressão linear múltipla <b>rlm3</b> treinado sobre as seguintes features:
-• highway-mpg
-• city-mpg
+Crie um novo modelo de regressão linear múltipla <b>rlm3</b> treinado sobre as seguintes features:<br>
+
+• highway-mpg<br>
+• city-mpg<br>
 
 Avalie a qualidade do ajuste (treinamento) usando R-squared e a qualidade das previsões do ajuste usando MSE.
 
