@@ -7,7 +7,8 @@ melhoria do desempenho de web sites; Compreender o funcionamento básico de um s
 
 # Exercício de avaliação
 
-* Exercícios - Uma série de exercícios para construir um web site.
+* Exercício 1 - Uma série de exercícios para construir um web site.
+* Exercício 2 - Projetos de web sites.
 
 # Plano de ensino
 
