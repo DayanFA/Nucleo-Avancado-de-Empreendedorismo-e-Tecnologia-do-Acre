@@ -1,0 +1,416 @@
+<html>
+<head>
+<META charset="utf-8">
+<meta name="viewport" content="with=device-width, initial-scale=1"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Pesquisa-DermaLog</title>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+<!-- jQuery library -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+<!-- Popper JS -->
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<!-- Latest compiled JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" type="text/css" href="fontawesome/css/all.min.css">
+<style>
+ *{
+ margin:0;
+ padding:0;
+ }
+ 
+ .search-bar{
+ width: 100%;
+ max-width: 700px;
+ background: #DBDBDB;
+ display:flex;
+ align-items:center;
+ border-radius:60px;
+ padding: 6px 10px;
+ 
+ }
+ .search-bar input{
+  background:transparent;
+  flex: 1;
+  display:flex;
+  align-items:center;
+  border:0;
+  outline:none;
+  padding: 6  198;
+  
+  
+  color:#AEADAF   ;
+ 
+ }
+ ::placeholder{
+ color: #AEADAF  ;
+ 
+ }
+
+ .contairner{
+ float: left;
+ margin: 10;
+ width:600px;
+ 
+ 
+ 
+ 
+ }
+ .search-bar button img{
+ width: 20px;
+  
+
+ 
+ }
+ .search-bar button {
+ width: 30px;
+ border:0;
+ 
+ 
+ border-radius: 100%;
+ width: 30px;
+ height: 30px;
+ background:#B9B9B9  ;
+ cursor: pointer;
+ 
+ 
+ }
+ .icons .fa-brands{
+      margin: 0 9px;
+      cursor:pointer;
+      padding:8px 0;	
+	  
+}
+
+.principal .imgs-container{
+overflow: hidden;
+height:900;
+ display:flex;
+display:grid;
+grid-template-columns:1fr 1fr 1fr 1fr;
+width: 100%;
+ float:left;
+ 
+ 
+ align-items:center;
+ 
+
+}
+
+.principal .imgs-container .imgs2s{
+padding: 1px;
+background-color: #fff;
+box-shadow:0 5px 10px rgba(0,0,0.1);
+border:2px solid #000;
+width: 250px;
+border-radius: 5px;
+display:flex;
+flex-direction:row;
+justify-content: space-around;
+float:left;
+margin:4;
+margin-left:10;
+
+
+animation: fadeIn .2s linear;
+
+
+
+}
+@keyframes fadeIn{
+0%{
+transform:scale(.5) translateY(-10px);
+opacity:0;
+}
+
+}
+.cabecalho2 {
+  overflow: hidden;
+  background-color: #633974  ;
+   display:flex;
+}
+.cabecalho2 a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+   display:flex;
+}
+.cabecalho2 a:hover {
+  background-color: #ddd;
+  color: black;
+   display:flex;
+}
+
+.principal .imgs-container .imgs2s img{
+height:250px;
+width:100%;
+object-fit: cover;
+margin-bottom:10px;
+border-radius: 5px;
+ display:flex;
+
+}
+ .cabecalho{
+     height: 100px;
+     background-color: #CBABFC   ;
+	 margin:0 auto;
+	  padding: 20px;
+	  background-image:url(imms/banner.jpg);
+	  background-size: cover;
+	  
+  
+     }
+	 
+	 .cadastro{
+	  height: 50px;
+	  width:150px;
+	  border-radius:5px;
+	  float:right;
+	  display:flex;
+	  
+	  
+	  box-shadow:0 2px 5px rgba(0,0,0.1);
+      
+	  }
+	  .cadastro img{
+	   width:100%;
+	   height:100%
+	  display:flex;
+	  }
+	  
+	 @media only screen and (max-width: 1300px){
+      .cadastro{
+	  height: 50px;
+	  width:150px;
+	  border-radius:5px;
+	  float:right;
+	  box-shadow:0 2px 5px rgba(0,0,0.1);
+	  }
+	  }
+	  
+	 
+	 
+      @media only screen and (max-width: 1300px){
+      .search-bar input{
+  background:transparent;
+  flex: 1;
+  display:flex;
+  align-items:center;
+  border:0;
+  outline:none;
+  padding: 6  180;
+  
+  
+  color:#AEADAF   ;
+ 
+ }
+ }
+     @media only screen and (max-width: 1300px){
+     .dd5{
+    
+     
+     margin-left:180;
+     margin-top:-15;
+    
+ 
+     
+     }
+     }
+     @media only screen and (max-width: 1300px){
+     .list-group{
+    
+     
+  
+     margin:20;
+    
+ 
+     
+     }
+     }
+    @media only screen and (max-width: 1300px){
+     .dd4{
+     font-size: 60%;
+     }
+     }
+     @media only screen and (max-width: 1300px){
+     .dd1{
+     font-size: 130%;
+     }
+     }
+     .menu{ 
+     height:1000px;
+     width:300px;
+	 float:left;
+	  margin:0 auto;
+	  
+     }
+	 .principal{ 
+     height:1000px;
+	  margin:0 auto;
+	  margin-left:300;
+	 
+	  
+     }
+	 .rodape{ 
+     height:100px;
+	  margin:0 auto;
+	  clear:both;
+
+     }
+	 
+	 .filtrarp {
+	 background-color:#DECAFC ;
+	 margin: 5;
+	 height:30px;
+	 
+	 }
+	 .listaa{ 
+	 background-color:#F5F0FB ;
+	 margin:5;
+	 margin-top:-5;
+	 height:910px;
+	 }
+</style>
+</head>
+<body>
+
+<div>
+ <div class="cabecalho">
+ <a href="cadastro.html"><div class="cadastro">
+ <img src="imms/imglogin.png">
+ </div>
+ </a>
+</div>
+<div class="cabecalho2">
+  <a href="index.html">Home</a>
+  <a href="pesquisa.html">Pequisa</a>
+  <a href="sobre.html">Sobre</a>
+  <a href="contato.html">Contato</a>
+</div>
+<div>
+ <div class="menu">
+    <div class="filtrarp">
+  <FONT size="5" class="dd1"  ><b>&nbsp; Filtrar por </b></FONT>
+    </div>
+     <div class="listaa">
+<br><FONT size="3"  face="arial">&nbsp; Máculas ou manchas</FONT> 
+<p>
+<ul class="list-group">&nbsp;&nbsp;&nbsp;&nbsp;Exantema rubeoliforme&nbsp;&nbsp;<input class="dd5" data-name="mm1" id="search2" type="CHECKBOX" name="exantema_roobliforme" value="mm1"> </ul>
+<ul class="list-group">&nbsp;&nbsp;&nbsp;&nbsp;Exantema escarlatiniforme&nbsp;&nbsp;<input class="dd5" data-name="mm2"id="search2" type="CHECKBOX" name="exantema_escarliforme" value="mm2"> </ul>
+<ul class="list-group">&nbsp;&nbsp;&nbsp;&nbsp;Hipocrômica&nbsp;&nbsp;<input class="dd5" id="search2" data-name="mm3" type="CHECKBOX" name="hipocromica" value="mm3"> </ul>
+<ul class="list-group">&nbsp;&nbsp;&nbsp;&nbsp;Hipercrômica&nbsp;&nbsp;<input class="dd5" id="search2" data-name="mm4" type="CHECKBOX" name="hipercromica" value="mm4"> </ul>
+<ul class="list-group">&nbsp;&nbsp;&nbsp;&nbsp;Acrômica&nbsp;&nbsp;<input class="dd5" id="search2" data-name="mm5"type="CHECKBOX" name="acromica" value="mm5"> </ul>
+<br><FONT size="3"  face="arial">&nbsp; Formações sólidas</FONT>
+<p> 
+<ul class="list-group">&nbsp;&nbsp;&nbsp;&nbsp;Placa&nbsp;&nbsp;<input class="dd5" id="search2" data-name="fs1" type="CHECKBOX" name="placa" value="fs1">  </ul>
+<br><FONT size="3"  face="arial">&nbsp; Coleções de conteúdo líquido</FONT>
+<p>
+<ul class="list-group">&nbsp;&nbsp;&nbsp;&nbsp;Vesícula&nbsp;&nbsp;<input class="dd5" id="search2" data-name="ccl1" type="CHECKBOX" name="vesicula" value="ccl1"> </ul>
+<ul class="list-group">&nbsp;&nbsp;&nbsp;&nbsp;Bolha&nbsp;&nbsp;<input class="dd5" id="search2" data-name="ccl2" type="CHECKBOX" name="bolha" value="ccl2"> </ul>
+<ul class="list-group">&nbsp;&nbsp;&nbsp;&nbsp;Pústula&nbsp;&nbsp;<input class="dd5" id="search2" data-name="ccl3" type="CHECKBOX" name="pustula" value="ccl3">  </ul>
+<br><FONT size="3"  face="arial">&nbsp; Alterações de espessura</FONT>
+<ul class="list-group">&nbsp;&nbsp;&nbsp;&nbsp;Atrofia&nbsp;&nbsp;<input class="dd5" id="search2" data-name="ae1" type="CHECKBOX" name="atrofia" value="ae1">  </ul>
+<ul class="list-group">&nbsp;&nbsp;&nbsp;&nbsp;Cicatrizes&nbsp;&nbsp;<input class="dd5" id="search2" data-name="ae2" type="CHECKBOX" name="cicatrizes" value="ae2"></ul>
+<ul class="list-group">&nbsp;&nbsp;&nbsp;&nbsp;Ceratose&nbsp;&nbsp;<input class="dd5" id="search2" data-name="ae3" type="CHECKBOX" name="cicatrizes" value="ae3"></ul>
+      </div>
+</div>
+
+<div>
+ <div class="principal">
+
+<div class="contairner">
+  <form action="" class="search-bar">
+  <input type="text" placeholder="[pesquisar categoria]"  id="search-box">
+  <button  type="submit"> <img align="center"src="imms/ss2.png" ></button>
+  </form>
+</div>
+ <div class="imgs-container">
+ <div class="imgs2s"data-name="mm1"  data-title="Máculas ou manchas">
+ <img src="imms/Rubeola.jpg" alt=" Exantema rubeoliforme">
+ </div>
+ 
+ <div class="imgs2s" data-name="mm2" data-title="Máculas ou manchas">
+ <img src="imms/Escarlatinaa.jpg" alt=" Exantema escarlatiniforme">
+ </div>
+ 
+ <div class="imgs2s" data-name="mm3" data-title="Máculas ou manchas">
+ <img src="imms/hipocro.jpg" alt="Hipocrômica">
+ </div>
+ 
+ <div class="imgs2s" data-name="mm4" data-title="Máculas ou manchas">
+ <img src="imms/hipercr.jpg" alt="Hipercrômica">
+ </div>
+ 
+ <div class="imgs2s" data-name="mm5" data-title="Máculas ou manchas">
+ <img src="imms/acro.png" alt="Acrômica">
+ </div>
+ 
+  <div class="imgs2s" data-name="fs1" data-title="Formações sólidas">
+ <img src="imms/placa.jpg" alt="Placa">
+ </div>
+  <div class="imgs2s" data-name="ccl1" data-title="Coleções de conteúdo líquido">
+ <img src="imms/20160906160347.jpg" alt="Vesícula">
+ </div>
+ <div class="imgs2s" data-name="ccl2" data-title="Coleções de conteúdo líquido">
+ <img src="imms/bolha.jpg" alt="Bolha">
+ </div>
+ <div class="imgs2s" data-name="ccl3" data-title="Coleções de conteúdo líquido">
+ <img src="imms/downfafalofad.png" alt="Pústula">
+ </div>
+  <div class="imgs2s" data-name="ae1" data-title="Alterações de espessura">
+ <img src="imms/estrias.jpg" alt="Atrofia">
+ </div>
+  <div class="imgs2s" data-name="ae2" data-title="Alterações de espessura">
+ <img src="imms/shutterstock_741380833.jpg" alt=" Cicatrizes">
+ </div>
+  <div class="imgs2s" data-name="ae3" data-title="Alterações de espessura">
+ <img src="imms/ceratose02_194x194.jpg" alt="Ceratose">
+ </div>
+</div>
+</div>
+
+<div>
+ <div class="rodape">
+ <center>
+ 
+ <div class="icons">
+ Sobre Nós
+ <font color="grey"><i><p>Nosso objetivo é ser referência dermatológica em todo o Brasil </i><br> Visite-nos em nossas redes sociais</p> </font>
+ <br>
+<a href="https://pt-br.facebook.com" target="_blank" ><i class="fa-brands fa-facebook"></i></a>
+ <a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+  <a href="http://twitter.com" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+ <a href="https://web.telegram.org" target="_blank"><i class="fa-brands fa-telegram"></i></a>
+ <a href="https://www.whatsapp.com" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+ <a href="https://br.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+ <p>
+ <br><font class="dd4"color="grey"><h5><i> @nave-tech </font> </h5></i>
+</div>
+</center>
+<script>
+let searchBox = document.querySelector('#search-box');
+let images = document.querySelectorAll('.principal .imgs-container .imgs2s');
+searchBox.oninput = () =>{
+images.forEach(hide => hide.style.display ='none');
+let value = searchBox.value;
+images.forEach(filter => {
+ let title = filter.getAttribute('data-title');
+ if(value == title){
+  filter.style.display = 'block';
+ }
+ if(searchBox.value == ''){
+ filter.style.display = 'block';
+ }
+ 
+});
+};
+
+</script>
+</body>
+</html>
