@@ -8,7 +8,7 @@ melhoria do desempenho de web sites; Compreender o funcionamento básico de um s
 # Exercício de avaliação
 
 * Exercício 1 - Uma série de exercícios para ensina os básicos de HTML e PHP.
-* Exercício 2 - Projetos de web sites. No caso dos sites de derma e o de café, eles foram feitos em equipe onde, pessoas de outras áreas ajudavam dando a ideia do tema do site e eu era responsável pelo desenvolvimento do site.
+* Exercício 2 - Projetos de web sites. No caso dos sites de derma e o de café, eles foram feitos em equipe onde, pessoas de outras áreas ajudavam dando a ideia do tema do site e eu era responsável pelo desenvolvimento.
 
 # Plano de ensino
 
